@@ -1,0 +1,313 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/index.html
+Subject: Marina Simanina Portfolio
+Date: Wed, 14 Dec 2022 12:42:35 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--8PBdX66mW2VPeYQFDtKUFpBzKVQl8UZcPjDtHTyxhV----"
+
+
+------MultipartBoundary--8PBdX66mW2VPeYQFDtKUFpBzKVQl8UZcPjDtHTyxhV----
+Content-Type: text/html
+Content-ID: <frame-61AEC64BED67F1429D82903A071DAF37@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/index.html
+
+<!DOCTYPE html><!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.ne=
+t/license)
+--><html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; char=
+set=3DUTF-8">
+		<title>Marina Simanina Portfolio</title>
+	=09
+		<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1, user-scalable=3Dno">
+		<link rel=3D"stylesheet" href=3D"http://127.0.0.1:5500/assets/css/main.cs=
+s">
+	=09
+	</head>
+	<body class=3D"is-preload" data-new-gr-c-s-check-loaded=3D"14.1089.0" data=
+-gr-ext-installed=3D"">
+
+		<!-- Wrapper -->
+			<div id=3D"wrapper" class=3D"fade-in">
+
+				<!-- Intro -->
+					<div id=3D"intro">
+						<h1>Marina Simanina<br>
+						Portfolio</h1>
+						<p>Data Analyst skilled in SQL, R, Tableau and PowerBI <a href=3D"htt=
+ps://www.linkedin.com/in/marina-simanina-770874216">linkedin@marinasimanina=
+</a></p>
+						<ul class=3D"actions">
+							<li><a href=3D"http://127.0.0.1:5500/index.html#header" class=3D"but=
+ton icon solid solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
+
+				<!-- Nav -->
+					<nav id=3D"nav">
+						<ul class=3D"links">
+							<li class=3D"active"><a href=3D"http://127.0.0.1:5500/index.html">Th=
+is is Massively</a></li>
+							<li><a href=3D"http://127.0.0.1:5500/generic.html">Generic Page</a><=
+/li>
+							<li><a href=3D"http://127.0.0.1:5500/elements.html">Elements Referen=
+ce</a></li>
+						</ul>
+						<ul class=3D"icons">
+							<li><a href=3D"http://127.0.0.1:5500/index.html#" class=3D"icon bran=
+ds fa-twitter"><span class=3D"label">Twitter</span></a></li>
+							<li><a href=3D"http://127.0.0.1:5500/index.html#" class=3D"icon bran=
+ds fa-facebook-f"><span class=3D"label">Facebook</span></a></li>
+							<li><a href=3D"http://127.0.0.1:5500/index.html#" class=3D"icon bran=
+ds fa-instagram"><span class=3D"label">Instagram</span></a></li>
+							<li><a href=3D"http://127.0.0.1:5500/index.html#" class=3D"icon bran=
+ds fa-github"><span class=3D"label">GitHub</span></a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id=3D"main">
+
+						<!-- Featured Post -->
+							<article class=3D"post featured">
+								<header class=3D"major">
+									<h2><a href=3D"https://github.com/marinasimanina/PortfolioProjects=
+/blob/main/MySQL%20Data%20Exploration_Air%20Cargo%20Analysis.sql">Data expl=
+oration in<br>
+									SQL</a></h2>
+									<p>In this project I focus on identifying the regular customers to=
+ provide offers,=20
+										analyze the busiest route which helps to increase the number=20
+										of aircraft required and prepare an analysis to determine the tic=
+ket sales details.=20
+										This will ensure that the company improves its operability and be=
+comes more customer-centric=20
+										and a favorable choice for air travel.</p>
+								</header>
+								<a href=3D"https://github.com/marinasimanina/PortfolioProjects/blob=
+/main/MySQL%20Data%20Exploration_Air%20Cargo%20Analysis.sql" class=3D"image=
+ main"><img src=3D"http://127.0.0.1:5500/images/pic01.jpg" alt=3D""></a>
+								<ul class=3D"actions special">
+									<li><a href=3D"https://github.com/marinasimanina/PortfolioProjects=
+/blob/main/MySQL%20Data%20Exploration_Air%20Cargo%20Analysis.sql" class=3D"=
+button large">View Project</a></li>
+								</ul>
+							</article>
+
+						<!-- Posts -->
+							<section class=3D"posts">
+								<article>
+									<header>
+										<h2><a href=3D"https://github.com/marinasimanina/PortfolioProject=
+s/blob/main/MySQL%20Data%20Exploration_ScienceQtech%20Employee%20Performanc=
+e%20Mapping.sql">Data exploration<br>
+										in SQL</a></h2>
+									</header>
+									<a href=3D"https://github.com/marinasimanina/PortfolioProjects/blo=
+b/main/MySQL%20Data%20Exploration_ScienceQtech%20Employee%20Performance%20M=
+apping.sql" class=3D"image fit"><img src=3D"http://127.0.0.1:5500/images/pi=
+c02.jpg" alt=3D""></a>
+									<p>In this project I analise the employee database, their performa=
+nce,=20
+										and extract specific data based on different requirements.</p>
+									<ul class=3D"actions special">
+										<li><a href=3D"https://github.com/marinasimanina/PortfolioProject=
+s/blob/main/MySQL%20Data%20Exploration_ScienceQtech%20Employee%20Performanc=
+e%20Mapping.sql" class=3D"button">View Project</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<h2><a href=3D"https://github.com/marinasimanina/PortfolioProject=
+s/blob/main/Superstore_EDA.sql">Data exploration<br>
+										in SQL</a></h2>
+									</header>
+									<a href=3D"https://github.com/marinasimanina/PortfolioProjects/blo=
+b/main/Superstore_EDA.sql" class=3D"image fit"><img src=3D"http://127.0.0.1=
+:5500/images/pic03.jpg" alt=3D""></a>
+									<p>In this project I provide data insights on the Superstore sampl=
+e which help to get a better understanding on the customer behaviour by ana=
+lyzing the historical sales data from 2014 to 2017.</p>
+									<ul class=3D"actions special">
+										<li><a href=3D"https://github.com/marinasimanina/PortfolioProject=
+s/blob/main/Superstore_EDA.sql" class=3D"button">View Project</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<h2><a href=3D"https://public.tableau.com/app/profile/marina.sima=
+nina">Tableau Projects<br>
+										</a></h2>
+									</header>
+									<a href=3D"https://public.tableau.com/app/profile/marina.simanina"=
+ class=3D"image fit"><img src=3D"http://127.0.0.1:5500/images/pic04.jpg" al=
+t=3D""></a>
+									<p>Here I present several Tableau Dashboards with Sales and Profit=
+ Analysis.</p>
+									<ul class=3D"actions special">
+										<li><a href=3D"https://public.tableau.com/app/profile/marina.sima=
+nina" class=3D"button">Full Story</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<h2><a href=3D"http://127.0.0.1:5500/index.html#">Tempus sed<br>
+										nulla imperdiet</a></h2>
+									</header>
+									<a href=3D"http://127.0.0.1:5500/index.html#" class=3D"image fit">=
+<img src=3D"http://127.0.0.1:5500/images/pic05.jpg" alt=3D""></a>
+									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum =
+primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sag=
+ittis magna etiam.</p>
+									<ul class=3D"actions special">
+										<li><a href=3D"http://127.0.0.1:5500/index.html#" class=3D"button=
+">Full Story</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<span class=3D"date">April 11, 2017</span>
+										<h2><a href=3D"http://127.0.0.1:5500/index.html#">Odio magna<br>
+										sed consectetur</a></h2>
+									</header>
+									<a href=3D"http://127.0.0.1:5500/index.html#" class=3D"image fit">=
+<img src=3D"http://127.0.0.1:5500/images/pic06.jpg" alt=3D""></a>
+									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum =
+primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sag=
+ittis magna etiam.</p>
+									<ul class=3D"actions special">
+										<li><a href=3D"http://127.0.0.1:5500/index.html#" class=3D"button=
+">Full Story</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<span class=3D"date">April 7, 2017</span>
+										<h2><a href=3D"http://127.0.0.1:5500/index.html#">Augue lorem<br>
+										primis vestibulum</a></h2>
+									</header>
+									<a href=3D"http://127.0.0.1:5500/index.html#" class=3D"image fit">=
+<img src=3D"http://127.0.0.1:5500/images/pic07.jpg" alt=3D""></a>
+									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum =
+primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sag=
+ittis magna etiam.</p>
+									<ul class=3D"actions special">
+										<li><a href=3D"http://127.0.0.1:5500/index.html#" class=3D"button=
+">Full Story</a></li>
+									</ul>
+								</article>
+							</section>
+
+						<!-- Footer -->
+							<footer>
+								<div class=3D"pagination">
+									<!--<a href=3D"#" class=3D"previous">Prev</a>-->
+									<a href=3D"http://127.0.0.1:5500/index.html#" class=3D"page active=
+">1</a>
+									<a href=3D"http://127.0.0.1:5500/index.html#" class=3D"page">2</a>
+									<a href=3D"http://127.0.0.1:5500/index.html#" class=3D"page">3</a>
+									<span class=3D"extra">=E2=80=A6</span>
+									<a href=3D"http://127.0.0.1:5500/index.html#" class=3D"page">8</a>
+									<a href=3D"http://127.0.0.1:5500/index.html#" class=3D"page">9</a>
+									<a href=3D"http://127.0.0.1:5500/index.html#" class=3D"page">10</a=
+>
+									<a href=3D"http://127.0.0.1:5500/index.html#" class=3D"next">Next<=
+/a>
+								</div>
+							</footer>
+
+					</div>
+
+				<!-- Footer -->
+					<footer id=3D"footer">
+						<section>
+							<form method=3D"post" action=3D"http://127.0.0.1:5500/index.html#">
+								<div class=3D"fields">
+									<div class=3D"field">
+										<label for=3D"name">Name</label>
+										<input type=3D"text" name=3D"name" id=3D"name">
+									</div>
+									<div class=3D"field">
+										<label for=3D"email">Email</label>
+										<input type=3D"text" name=3D"email" id=3D"email">
+									</div>
+									<div class=3D"field">
+										<label for=3D"message">Message</label>
+										<textarea name=3D"message" id=3D"message" rows=3D"3"></textarea>
+									</div>
+								</div>
+								<ul class=3D"actions">
+									<li><input type=3D"submit" value=3D"Send Message"></li>
+								</ul>
+							</form>
+						</section>
+						<section class=3D"split contact">
+							<section class=3D"alt">
+								<h3>Address</h3>
+								<p>1234 Somewhere Road #87257<br>
+								Nashville, TN 00000-0000</p>
+							</section>
+							<section>
+								<h3>Phone</h3>
+								<p><a href=3D"http://127.0.0.1:5500/index.html#">(000) 000-0000</a>=
+</p>
+							</section>
+							<section>
+								<h3>Email</h3>
+								<p><a href=3D"http://127.0.0.1:5500/index.html#">info@untitled.tld<=
+/a></p>
+							</section>
+							<section>
+								<h3>Social</h3>
+								<ul class=3D"icons alt">
+									<li><a href=3D"http://127.0.0.1:5500/index.html#" class=3D"icon br=
+ands alt fa-twitter"><span class=3D"label">Twitter</span></a></li>
+									<li><a href=3D"http://127.0.0.1:5500/index.html#" class=3D"icon br=
+ands alt fa-facebook-f"><span class=3D"label">Facebook</span></a></li>
+									<li><a href=3D"http://127.0.0.1:5500/index.html#" class=3D"icon br=
+ands alt fa-instagram"><span class=3D"label">Instagram</span></a></li>
+									<li><a href=3D"http://127.0.0.1:5500/index.html#" class=3D"icon br=
+ands alt fa-github"><span class=3D"label">GitHub</span></a></li>
+								</ul>
+							</section>
+						</section>
+					</footer>
+
+				<!-- Copyright -->
+					<div id=3D"copyright">
+						<ul><li>=C2=A9 Untitled</li><li>Design: <a href=3D"https://html5up.ne=
+t/">HTML5 UP</a></li></ul>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+		=09
+		=09
+		=09
+		=09
+		=09
+		=09
+		=09
+
+	<!-- Code injected by live-server -->
+
+</body><grammarly-desktop-integration data-grammarly-shadow-root=3D"true"><=
+template shadowmode=3D"open"><div aria-label=3D"grammarly-integration" role=
+=3D"group" tabindex=3D"-1" class=3D"grammarly-desktop-integration" data-con=
+tent=3D"{&quot;mode&quot;:&quot;full&quot;,&quot;isActive&quot;:true,&quot;=
+isUserDisabled&quot;:false}"></div></template></grammarly-desktop-integrati=
+on></html>
+------MultipartBoundary--8PBdX66mW2VPeYQFDtKUFpBzKVQl8UZcPjDtHTyxhV----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/assets/css/main.css
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--8PBdX66mW2VPeYQFDtKUFpBzKVQl8UZcPjDtHTyxhV------
